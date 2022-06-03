@@ -11,6 +11,9 @@ introduction to how to use pytorch for arbitrary optimization problems.
 
 ## Requirements
 
+This requires python 3.8 (because we use
+[this](https://stackoverflow.com/a/59661963) new feature).
+
 See `requirements.txt` (you can install them with `pip install -r
 requirements.txt`). You'll also need
 [jupyter](https://jupyterlab.readthedocs.io/en/stable/) if you wish to view the
