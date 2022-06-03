@@ -1,0 +1,4 @@
+tqdm>=4.59
+torch>=1.9
+ipywidgets>=7.6.5
+matplotlib>=3.3.4
