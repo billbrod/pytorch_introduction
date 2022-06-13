@@ -1,5 +1,7 @@
 # pytorch introduction
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/billbrod/pytorch_introduction/HEAD?labpath=pytorch_intro.ipynb)
+
 Introduction to pytorch for neuroscientists and psychologists.
 
 pytorch is a very useful package for nonlinear optimization, owing to its
